@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g4COm3JfFwCIDVMnn5DY2c3FhPjGs9+DrhNmlKTECd92kvq+21C9h6TQEv2BcvbTrS0JrRslIolNwm7wXR9VKQ==",
+  "dgSpecHash": "LLCxKxzR6wotjxOcGpENaZUh60NxZRI024HNrg+Z6k4PVjoQIbSZzreFvalWQelsOk7xh83/c+klgV7rFDGr6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
   "logs": []
 }

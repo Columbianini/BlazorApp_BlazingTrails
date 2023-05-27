@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj": {
+    "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj",
         "projectName": "BlazingTrails.Api",
-        "projectPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj",
-        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Api\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Api\\BlazingTrails.Api.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj": {
-                "projectPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj"
+              "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj"
               },
-              "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj": {
-                "projectPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj"
+              "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj"
               }
             }
           }
@@ -52,6 +52,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -94,24 +106,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj": {
+    "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj",
         "projectName": "BlazingTrails.Client",
-        "projectPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj",
-        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Client\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Client\\BlazingTrails.Client.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,8 +139,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj": {
-                "projectPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj"
+              "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj"
               }
             }
           }
@@ -143,6 +155,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Blazored.FluentValidation": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -167,7 +183,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.13, 6.0.13]"
+              "version": "[6.0.15, 6.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -175,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -184,20 +200,20 @@
         }
       }
     },
-    "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj": {
+    "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj",
         "projectName": "BlazingTrails.Shared",
-        "projectPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj",
-        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony\\Desktop\\C#\\blazor-in-action\\chapter-03\\BlazingTrails\\BlazingTrails.Shared\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\BlazingTrails.Shared.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Columbianini\\BlazorApp_BlazingTrails\\BlazingTrails.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -224,6 +240,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -240,7 +262,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazingTrails.Shared
-build_property.ProjectDir = C:\Users\Anthony\Desktop\C#\blazor-in-action\chapter-03\BlazingTrails\BlazingTrails.Shared\
+build_property.ProjectDir = C:\Users\user\source\repos\Columbianini\BlazorApp_BlazingTrails\BlazingTrails.Shared\

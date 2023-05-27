@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazingTrails.Client",
+    "\\BlazingTrails.Client\\Features",
+    "\\BlazingTrails.Client\\Features\\ManageTrails"
+  ],
+  "SelectedNode": "\\BlazingTrails.Client\\Features\\ManageTrails\\FormSection.razor",
+  "PreviewInSolutionExplorer": false
+}
